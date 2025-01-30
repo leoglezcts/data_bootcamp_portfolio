@@ -1,10 +1,10 @@
 # **¿Qué hallarás en este repositorio?**
 Todos los proyectos que he realizado de análsis de datos en mi bootcamp, aquí una breve descripción de cada uno.
 
-**1. - [s1_python_basico.ipynb](s1_python_basico.ipynb) **
+**1. [s1_python_basico.ipynb](s1_python_basico.ipynb) **
 Descripción: Este proyecto introduce los conceptos básicos de Python, centrándose en la manipulación y limpieza de datos. Se abordan temas como la evaluación de la calidad de los datos, la manipulación de cadenas, la conversión de tipos de datos, el trabajo con listas y el manejo de errores.
 
-**2. s2_bucles_y_funciones.ipynb**
+**2. [s2_bucles_y_funciones.ipynb](s2_bucles_y_funciones.ipynb)**
 Descripción: En este proyecto, se exploran los bucles (for, while) y las funciones en Python. Se aprende a automatizar tareas repetitivas y a crear funciones personalizadas para realizar operaciones específicas, lo que es esencial para escribir código eficiente y reutilizable.
 
 **3. s3_manipulacion_de_datos.ipynb**
