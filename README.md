@@ -18,3 +18,10 @@ Descripción: Este proyecto se enfoca en el análisis estadístico de datos. Se 
 
 **6. s6_EDA.ipynb**
 Descripción: El proyecto de Análisis Exploratorio de Datos (EDA) se centra en explorar y entender los datos antes de realizar cualquier modelado o análisis avanzado. Se utilizan técnicas de visualización y estadísticas descriptivas para identificar patrones, tendencias y anomalías en los datos.
+
+
+
+
+
+
+Pd: Este repositorio sigue actualizandose hasta llegar 
