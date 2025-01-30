@@ -19,9 +19,10 @@ Descripción: Este proyecto se enfoca en el análisis estadístico de datos. Se 
 **6. [s6_EDA.ipynb](s6_EDA.ipynb)**
 Descripción: El proyecto de Análisis Exploratorio de Datos (EDA) se centra en explorar y entender los datos antes de realizar cualquier modelado o análisis avanzado. Se utilizan técnicas de visualización y estadísticas descriptivas para identificar patrones, tendencias y anomalías en los datos.
 
+**7. [s7_dashboard_app](https://github.com/leoglezcts/dashboard_app))
+Aplicación creada en el Framework Streamlit para visualizar gráficos de plotly.express, desplegada en Render.com. Este proyect tiene su propio repositorio, pero puedes darle clic en el link.
 
 
 
 
-
-Pd: Este repositorio sigue actualizandose hasta llegar 
+Este repositorio está en constante actualización 
