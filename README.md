@@ -23,6 +23,6 @@ Descripción: El proyecto de Análisis Exploratorio de Datos (EDA) se centra en 
 Descripción: Aplicación creada en el Framework Streamlit para visualizar gráficos de plotly.express, desplegada en Render.com. Este proyecto tiene su propio repositorio, pero puedes darle clic en el link para acceder.
 
 
-**Librerías:** pandas, matplotlib, seaborn, scipy, streamlit
+**Librerías:** pandas, numpy, matplotlib, seaborn, scipy, streamlit
 
 Este repositorio está en constante actualización 
