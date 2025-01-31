@@ -1,5 +1,5 @@
 # **¿Qué hallarás en este repositorio?** 
-Todos los proyectos que he realizado de análsis de datos en mi bootcamp, aquí una breve descripción de cada uno.
+Este espacio está diseñado para mostrar mi progreso y las habilidades que he adquirido a lo largo del programa. Aquí encontrarás una colección de proyectos que abarcan desde los fundamentos de Python hasta técnicas avanzadas de análisis de datos y visualización. Cada proyecto está cuidadosamente documentado y organizado para que puedas explorar cómo he aplicado los conceptos aprendidos en situaciones prácticas.
 
 **1. [s1_python_basico.ipynb](s1_python_basico.ipynb)**<br>
 Descripción: Este proyecto introduce los conceptos básicos de Python, centrándose en la manipulación y limpieza de datos. Se abordan temas como la evaluación de la calidad de los datos, la manipulación de cadenas, la conversión de tipos de datos, el trabajo con listas y el manejo de errores.
@@ -23,6 +23,6 @@ Descripción: El proyecto de Análisis Exploratorio de Datos (EDA) se centra en 
 Descripción: Aplicación creada en el Framework Streamlit para visualizar gráficos de plotly.express, desplegada en Render.com. Este proyecto tiene su propio repositorio, pero puedes darle clic en el link para acceder.
 
 
-
+**Librerías:** pandas, matplotlib, seaborn, scipy, streamlit
 
 Este repositorio está en constante actualización 
