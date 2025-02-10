@@ -22,6 +22,8 @@ Descripción: El proyecto de Análisis Exploratorio de Datos (EDA) se centra en 
 **7. [s7_dashboard_app](https://github.com/leoglezcts/dashboard_app))**
 Descripción: Aplicación creada en el Framework Streamlit para visualizar gráficos de plotly.express, desplegada en Render.com. Este proyecto tiene su propio repositorio, pero puedes darle clic en el link para acceder.
 
+**8. [s8_prueba de hipotesis.ipynb](s8_prueba de hipotesis.ipynb)**<br>
+Descripción: Este proyecto tiene como finalidad analizar y explorar datos relacionados con el comportamiento de las empresas de taxis y los patrones de movilidad en la ciudad de Chicago. A través de técnicas de análisis de datos y una prueba estadística t-test..
 
 **Librerías:** pandas, numpy, matplotlib, seaborn, scipy, streamlit
 
